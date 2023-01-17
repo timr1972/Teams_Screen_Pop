@@ -1,0 +1,13 @@
+@font-face {
+	font-family: Tahoma, Arial, sans-serif;
+}
+
+body {
+	font-family: 'Conv_Ubuntu-Light';
+	font-size: 14px;
+	font-weight: normal;
+	line-height: 1;
+	margin: 0;
+	min-width: 960px;
+	padding: 0;
+}
